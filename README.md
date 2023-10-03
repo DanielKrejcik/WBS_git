@@ -1,4 +1,6 @@
 # WBS_git
 starting git / gitHUB
 
-performing the first commit ever. :)
+The hangman project was a first rather complex python-project during the bootcamp showcasing first accomplishments in coding:
+- stringmanipulation
+- if/else-conditions
